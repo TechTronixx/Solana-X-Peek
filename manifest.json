@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Solana Address Scanner",
+  "version": "1.0",
+  "description": "Transform Solana addresses into clickable Solscan links on X. Quick blockchain lookups made easy with automatic wallet detection and instant explorer access.",
+  "permissions": ["activeTab", "storage"],
+  "web_accessible_resources": ["assets/Solscan-logo.png"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.twitter.com/*", "*://*.x.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
+  }
+}
