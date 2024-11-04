@@ -2,12 +2,14 @@
   <img src="icons/icon-48.png" alt="Solana-X-Peek Icon" width="80" height="80"/>
   
   # Solana-X-Peek
+</div>
 
+<div align="center">
   <p>
-    <a href="#features">Features</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#how-it-works">How It Works</a> •
-    <a href="#privacy--security">Privacy</a>
+    <a href="#-features">Features</a> •
+    <a href="#-installation">Installation</a> •
+    <a href="#-how-it-works">How It Works</a> •
+    <a href="#-privacy--security">Privacy</a>
   </p>
 </div>
 
@@ -75,15 +77,6 @@ The extension scans tweet content for Solana wallet addresses using a precise re
 
 - Support for additional Solana explorers
 - Add clipboard copy functionality to address
-- Enhanced UI/UX features
-- Mobile support optimization
-
-## 🦊 Firefox-Specific Notes
-
-- Compatible with Firefox 109.0 and later
-- Uses Firefox's WebExtensions API
-- Follows Mozilla's Add-on policies and guidelines
-- Optimized for Firefox's rendering engine
 
 ## 📄 License
 
