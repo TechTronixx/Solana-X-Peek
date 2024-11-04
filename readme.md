@@ -58,13 +58,15 @@ The extension scans tweet content for Solana wallet addresses using a precise re
 4. Click "Load Temporary Add-on"
 5. Navigate to the extension directory and select `manifest.json`
 
-## 📸 Demo Images
+## 📸 Demo
 
-[Place demo screenshots here showing:]
-
-- Before/After of address detection
-- Hover state on the Solscan link
-- Example of Solscan explorer integration
+<div align="center">
+  <img src="assets/Example-1.png" alt="Solana address detection example" width="600"/>
+  <p><em>Automatic detection of Solana address in a tweet</em></p>
+  
+  <img src="assets/Solanaxpeek-demo.mp4" alt="Solana-X-Peek in action" width="600"/>
+  <p><em> Solana-X-Peek extension showing clickable Solscan link</em></p>
+</div>
 
 ## 🔒 Privacy & Security
 
