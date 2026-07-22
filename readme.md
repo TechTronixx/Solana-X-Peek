@@ -15,6 +15,14 @@
 
 </div>
 
+<div align="center">
+  <a href="#features">Features</a> •
+  <a href="#install">Install</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#how-it-works">How it works</a> •
+  <a href="#privacy">Privacy</a>
+</div>
+
 A Firefox extension that detects Solana wallet addresses in tweets on X (Twitter) and adds a clickable Solscan link next to each one.
 
 <div align="center">
