@@ -1,0 +1,12 @@
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Packaged extension artifacts
+*.zip
+*.xpi
+web-ext-artifacts/
